@@ -61,6 +61,7 @@ I'm an undergraduate CS student specializing in **AI/ML** at Apna College, build
 ## 📬 Connect With Me
 
 - 💼 [GitHub](https://github.com/mohdadnan001)
+- - 💼 [LinkedIn](https://www.linkedin.com/in/mohdadnan001)
 - 📍 Hyderabad, Telangana, India
 
 ---
